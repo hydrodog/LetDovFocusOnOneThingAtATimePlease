@@ -1,4 +1,7 @@
-
+/*
+	Demonstration of Inner classes and anonymous inner classes and their naming conventions
+	@author Dov Kruger
+ */
 
 public class InnerClass {
 
